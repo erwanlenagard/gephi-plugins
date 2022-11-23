@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Plugin TMF
+OpenIDE-Module-Short-Description: test
+OpenIDE-Module-Long-Description: test
+OpenIDE-Module-Display-Category: Tool
